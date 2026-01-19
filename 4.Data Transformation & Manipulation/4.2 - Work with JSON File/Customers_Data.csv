@@ -1,0 +1,11 @@
+ID,Customer_JSON
+1,"{""CustomerID"": 1, ""Name"": ""John Doe"", ""Age"": 30, ""Email"": ""john.doe@example.com"", ""City"": ""New York"", ""PurchaseAmount"": 250.75}"
+2,"{""CustomerID"": 2, ""Name"": ""Alice Smith"", ""Age"": 25, ""Email"": ""alice.smith@example.com"", ""City"": ""London"", ""PurchaseAmount"": 320.50}"
+3,"{""CustomerID"": 3, ""Name"": ""Robert Brown"", ""Age"": 40, ""Email"": ""robert.brown@example.com"", ""City"": ""Sydney"", ""PurchaseAmount"": 150.00}"
+4,"{""CustomerID"": 4, ""Name"": ""Emma Johnson"", ""Age"": 35, ""Email"": ""emma.johnson@example.com"", ""City"": ""Toronto"", ""PurchaseAmount"": 410.25}"
+5,"{""CustomerID"": 5, ""Name"": ""David Wilson"", ""Age"": 28, ""Email"": ""david.wilson@example.com"", ""City"": ""Mumbai"", ""PurchaseAmount"": 180.90}"
+6,"{""CustomerID"": 6, ""Name"": ""Sophia Martinez"", ""Age"": 33, ""Email"": ""sophia.martinez@example.com"", ""City"": ""Berlin"", ""PurchaseAmount"": 275.40}"
+7,"{""CustomerID"": 7, ""Name"": ""James Anderson"", ""Age"": 29, ""Email"": ""james.anderson@example.com"", ""City"": ""Paris"", ""PurchaseAmount"": 350.60}"
+8,"{""CustomerID"": 8, ""Name"": ""Olivia Taylor"", ""Age"": 27, ""Email"": ""olivia.taylor@example.com"", ""City"": ""Dubai"", ""PurchaseAmount"": 210.30}"
+9,"{""CustomerID"": 9, ""Name"": ""Michael Harris"", ""Age"": 45, ""Email"": ""michael.harris@example.com"", ""City"": ""Tokyo"", ""PurchaseAmount"": 480.75}"
+10,"{""CustomerID"": 10, ""Name"": ""Isabella Moore"", ""Age"": 31, ""Email"": ""isabella.moore@example.com"", ""City"": ""Singapore"", ""PurchaseAmount"": 330.20}"
